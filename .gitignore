@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+
+# Static files
+/static/
+.DS_Store
+
+# Media files
+/media/
+
+# Database dump
+db.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Python cache
+__pycache__/
+.pyc/
+
+# Compiled C extension
+*.so
+
+# Coverage directory
+.coverage
+
+# Temporary build directory
+.build/
+
+# Sphinx documentation
+docs/_build/
+
+# Python installer
+*.exe
+*.msi
+
+# Dist packages
+/dist/
+*.egg-info/
+
+# User-specific files
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Mac OS files
+.DS_Store
+
+# Node.js
+node_modules/
+chatbot/lib/
